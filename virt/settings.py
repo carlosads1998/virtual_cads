@@ -27,7 +27,7 @@ SECRET_KEY = '@_7qg_!)m^l#f_zws_3#k3#n#g@grv6n3$-(a2a70i$z$^g#nd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://cads-virtual.herokuapp.com/']
+ALLOWED_HOSTS = ['']
 
 
 # Application definition
